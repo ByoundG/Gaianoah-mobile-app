@@ -1,5 +1,7 @@
 # Gaianoah-mobile-app : AE Android launcher
 
+Welcome to contact us for any question - we could start on a pixel or similar launcher fork
+
 
 # (I) 
 Built a AE android launcher that will fulfill with the æternity blockchain aepps hackathon,
