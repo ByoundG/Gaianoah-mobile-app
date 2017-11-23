@@ -1,10 +1,10 @@
 # Gaianoah-mobile-app : AE Android launcher
 
-Welcome to contact us for any question, //;)
+Welcome to contact us for any question  //;)
 
 Desk is open from now, repository edition need to start on November the 27,
 
-Plantation could start on a pixel or similar launcher fork ,
+Launcher plantation could fork on a Kiss (https://github.com/Neamar/KISS), also see  pixels (https://github.com/michelelacorte/FlickLauncher)-(https://github.com/amirzaidi/Launcher3/releases) (https://github.com/amirzaidi/Launcher3/releases),  open (https://github.com/OpenLauncherTeam/openlauncher, simple (https://github.com/SimpleMobileTools/Simple-App-Launcher)
 
 
 # (I) 
