@@ -1,4 +1,4 @@
-# Gaianoah-mobile-app : AE Android launcher
+# Gaianoah-mobile-app : QIcoin(qiù) Android launcher
 
 Welcome to contact us for any question  //;)
 
@@ -8,12 +8,12 @@ Launcher plantation could fork on a Kiss (https://github.com/Neamar/KISS), also 
 
 
 # (I) 
-Built a AE android launcher that will fulfill with the æternity blockchain aepps hackathon,
+Built a AE android launcher that will fulfill with the ETH blockchain,
 
-Looking forward to the original æpp idea : : https://blog.aeternity.com/aepps-hackathon-16e2d4f3e7d4
+Looking forward to the original app idea : : https://blog.aeternity.com/aepps-hackathon-16e2d4f3e7d4
 
 # (II)
---> inside the aepps : skin - wallpaper - wallet - gameplay faucet - What3words map - local referents system (chat) - community shopping
+--> inside the app : skin - wallpaper - wallet - gameplay faucet - What3words map - local referents system (chat) - community shopping
 
 skin - wallpaper : pinky
 
@@ -30,4 +30,4 @@ community shopping : local ae token shopping mall
 # G
 Main prize with collaboration bonus will be share
 
-We are hiring : gaianoah. info (QIcoin) : 15EUR free on registration : wellness your power consumption !
+We are hiring : www.gaianoah.info (QIcoin) : wellness your holidays + 51qiù free on KYC registration ! 
